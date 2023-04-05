@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    font-family: algerian;
+    font-weight: bold;
+    font-size: 50px;
+    color: #0ceb22;
+
+}
+
+ol{
+    font-size: 30px;
+	font-family:monospace;
+    color: rgb(32 241 222);
+}
+
+body{
+    background: url('https://wallpaperaccess.com/full/654400.jpg');
+	background-size:cover;
+}
+
+a{
+    color: #850808;
+	font-size:30px;
+	text-decoration:none;
+	font-family:Arial;
+	border:4px solid darkblue;
+	border-radius:8px
+}
+
+a:hover{
+	color: #219e38;
+	border: #2d222e;
+	border-radius:4px;
+	border:2px solid pink;
+}
+
+#a1{
+	font-size:30px;
+	color: #d6d311;
+	text-decoration:none;
+	font-family:Arial;
+}
+
+#a1:hover{
+	color: #a73eab;
+	border: #2d222e;
+	border-radius:4px;
+	border:2px solid pink;
+}
+
+#p1{
+    font-weight: bolder;
+    font-size: 40px;
+}
+img{
+	margin-top:5px;
+	width:800px;
+	height:600px;
+	border:4px solid skyblue;
+	border-radius:8px;
+}
+

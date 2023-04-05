@@ -1,0 +1,68 @@
+h2{
+    text-align: center;
+	font-family:algerian;
+	font-size:30px;
+}
+
+h1{
+    text-align: center;
+	font-family:algerian;
+	font-size:50px;
+	color:yellow;
+}
+
+img{
+    height: 250px;
+    width: 290px;
+    border: 3px solid rgb(245, 76, 203);
+    margin-left: 35px;
+	margin-right : 35px;
+    margin-top:5px;
+	margin-bottom:5px;
+}
+
+body{
+    background-color: #939597;
+}
+
+#cntr{
+	border:4px solid skyblue;
+	border-radius:8px;
+}
+
+#poses{
+	margin-top:4px;
+	border:4px solid brown;
+	border-radius:8px;
+}
+
+#dhanurasana{
+	margin-top:4px;
+	border:4px solid blue;
+	border-radius:8px;
+	margin-left:2px;
+	margin-right:2px;
+}
+
+#bhujanasana{
+	margin-top:4px;
+	border:4px solid green;
+	border-radius:8px;
+	margin-left:2px;
+	margin-right:2px;
+}
+
+#vajrasana{
+	margin-top:4px;
+	border:4px solid pink;
+	border-radius:8px;
+	margin-left:2px;
+	margin-right:2px;
+	margin-bottom:2px;
+}
+
+#cmn{
+	margin-top:4px;
+	border:4px solid orange;
+	border-radius:8px;
+}

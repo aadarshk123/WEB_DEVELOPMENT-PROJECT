@@ -1,0 +1,161 @@
+header{
+	width:100%;
+	height:100px;
+	float:left;
+	font-style:oblique;
+	font-size:60px;
+	color:#b8860b;
+	background-color:#32454b;
+}
+body{
+	background-image:url("https://img3.goodfon.com/wallpaper/nbig/6/c4/devushka-aziatka-yoga-2673.jpg");
+	background-size:cover;
+}
+
+#php_part{
+	margin-top:5px;
+	height:150px;
+	width:400px;
+	border:2px solid black;
+	border-radius:4px;
+}
+
+#php_part h1{
+	font-family:monospace;
+	font-size:30px;
+	text-align:center;
+	color:#0eebdc;
+}
+
+#Logout{
+	font-family:algerian;
+	font-size:30px;
+	margin-top:1px;
+	text-align:left;
+	border-radius:4px;
+}
+
+#Logout a{
+	text-decoration:none;
+	font-family:algerian;
+	font-size:30px;
+	text-align:right;
+}
+
+#Logout a:hover{
+	background-color:#c460bc;
+	border:1px solid #211e21;
+	border-radius:5px;
+}
+
+.img1{
+	vertical-align:middle;
+	width:130px;
+	height:90%;
+	margin-left:80px;
+	margin-bottom:5px;
+	margin-top:2px;
+	border:2px solid white;
+	border-radius:8px;
+}
+.backimage{
+	margin-top:0px;
+	width:100%;
+	
+}
+.backimage h1{
+	margin-left:60px;
+	font-size:60px;
+	font-family:algerian;
+	font-weight:bold;
+	color:#32454b;
+}
+.backimage p{
+	margin-left:30px;
+	margin-right:450px;
+	font-size:45px;
+	color:red;
+	font-style:oblique;
+	font-weight:bolder;	
+}
+
+.user{
+	font-family:ubantu;
+	float:centre;
+	text-align:centre;
+	font-size:20px;
+	color:yellow;
+}
+
+#slogans{
+	font-family:monospace;
+	font-size:38px;
+	color:#f50a0a;
+}
+
+h1{
+	font-family:algerian;
+	font-size:50px;
+	color:#19f705;
+}
+#p2{
+	font-family:Arial;
+	transform:translate(-50%,-50%);
+	position:absolute;
+	left:40%;
+	top:83%;
+	background:rgba(255,255,255,0.2);
+	box-shadow:0px 4px 16px rgba(0,0,0,0.5);
+	margin-left:270px;
+	width:650px;
+	height:300px;
+	border: 2px solid yellow;
+	border-radius:8px;
+}
+#p2 a:hover{
+	background-color:#c460bc;
+	border:1px solid #211e21;
+	border-radius:5px;
+}
+#a1{
+	margin-left:125px;
+	font-size:28px;
+	font-weight:bolder;
+	font-style:normal;
+    color:darkblue;
+	text-decoration:none;
+}
+
+#a2{
+	margin-left:125px;
+	font-size:28px;
+	font-weight:bolder;
+	font-style:normal;
+    color:darkblue;
+	text-decoration:none;
+}
+#a3{
+	margin-left:125px;
+	font-size:28px;
+	text-decoration:none;
+	font-weight:bolder;
+	font-style:normal;
+    color:darkblue;
+}
+#a4{
+	margin-left:80px;
+	font-size:28px;
+	text-decoration:none;
+	font-weight:bolder;
+	font-style:normal;
+    color:darkblue;
+}
+#a5{
+	margin-left:125px;
+	font-size:28px;
+	text-decoration:none;
+	font-weight:bolder;
+	font-style:normal;
+    color:darkblue;
+}
+	
